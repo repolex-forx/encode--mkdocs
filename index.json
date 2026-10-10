@@ -1,0 +1,11 @@
+{
+  "org": "encode",
+  "repo": "mkdocs",
+  "versions": [
+    {
+      "commit": "c03ca093c77111cd141cf169b9cee81090e78459",
+      "tag": "",
+      "parsed_at": "2026-10-10T23:04:24.015112+00:00"
+    }
+  ]
+}
