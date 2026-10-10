@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/encode/mkdocs/commit/c03ca093c77111cd141cf169b9cee81090e78459",
       "git:hexsha": "c03ca093c77111cd141cf169b9cee81090e78459",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
